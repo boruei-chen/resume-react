@@ -1,8 +1,8 @@
 import moment from 'moment';
 
 const calculateRangeDate = (startDate: string, endDate: string) => {
-  const momentStartDate = startDate ? moment(startDate) : moment();
-  const momentEndDate = endDate ? moment(endDate) : moment();
+  const momentStartDate = startDate ? moment(startDate, 'YYYY/MM/DD') : moment();
+  const momentEndDate = endDate ? moment(endDate, 'YYYY/MM/DD') : moment();
   const diff = momentEndDate.diff(momentStartDate, 'months');
   const years = Math.floor(diff / 12);
   const months = diff % 12;
