@@ -5,7 +5,7 @@ import { MainPageDataResp } from 'app/bff/models/sources/mainPageData';
 
 export default {
   fetchMainPageData: async () => {
-    return axios.get<BaseResponse<MainPageDataResp>>('/sources/main-page-data.json')
+    return axios.get<BaseResponse<MainPageDataResp>>(`${process.env.PUBLIC_URL}/sources/main-page-data.json`)
       .then((response) => transferService.checkHttpResponse(response) ? response.data.transferResponse : null);
   }
 };
