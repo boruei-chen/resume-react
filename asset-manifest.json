@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resume-react/static/css/main.a3bca7cf.css",
+    "main.js": "/resume-react/static/js/main.89e50a81.js",
+    "static/js/787.a158e0c3.chunk.js": "/resume-react/static/js/787.a158e0c3.chunk.js",
+    "static/media/wwunion-wwu.mov": "/resume-react/static/media/wwunion-wwu.2c35aaa5dbaf8e1010f3.mov",
+    "static/media/twfhclife-ois.mov": "/resume-react/static/media/twfhclife-ois.36426cd61382d210f7ab.mov",
+    "static/media/chungkuo-cki.mov": "/resume-react/static/media/chungkuo-cki.d8e5b3e15781eb767b2e.mov",
+    "static/media/fubon-lrs.mov": "/resume-react/static/media/fubon-lrs.9781c34010cf88d48412.mov",
+    "static/media/twfhclife-claim.mov": "/resume-react/static/media/twfhclife-claim.5a3a250f96d17d917b69.mov",
+    "static/media/Boruei-Chen.png": "/resume-react/static/media/Boruei-Chen.12e00d3fafd98d864341.png",
+    "static/media/bravo-ideas.png": "/resume-react/static/media/bravo-ideas.6bd1a10e8327b54a4b24.png",
+    "static/media/tpi-software.png": "/resume-react/static/media/tpi-software.59ba11d8e159003cc65f.png",
+    "index.html": "/resume-react/index.html",
+    "main.a3bca7cf.css.map": "/resume-react/static/css/main.a3bca7cf.css.map",
+    "main.89e50a81.js.map": "/resume-react/static/js/main.89e50a81.js.map",
+    "787.a158e0c3.chunk.js.map": "/resume-react/static/js/787.a158e0c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3bca7cf.css",
+    "static/js/main.89e50a81.js"
+  ]
+}
